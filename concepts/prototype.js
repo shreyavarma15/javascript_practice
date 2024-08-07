@@ -8,7 +8,6 @@ console.log(Array.prototype);
 console.log(arr.__proto__.__proto__);
 
 //In the Prototype INHERITANCE, OBJECT is the parent.- prototype chaining
-
 //Array, oBjects, Functions, Strings
 
 let obj1 = {
